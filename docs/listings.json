@@ -2,9 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/Rakesh_Week_one/Rakesh-Week-one.html",
-      "/posts/welcome/index.html"
+      "/posts/Rakesh_Week_one/Rakesh-Week-one.html"
     ]
   }
 ]
