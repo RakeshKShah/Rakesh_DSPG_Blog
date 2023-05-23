@@ -2,7 +2,7 @@
 title: "Week One Blog"
 author: "Rakesh Shah"
 date: "2023-05-23"
-category: "Week one"
+categories: [Week one]
 ---
 
 # I'm currently very dehydrated.
